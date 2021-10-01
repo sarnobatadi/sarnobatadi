@@ -16,7 +16,7 @@
 
     
 ### Reach Me:
-<a href="linkedin.com/in/aditya-sarnobat-16123b18b/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;
+<a href="https://www.linkedin.com/in/aditya-sarnobat-16123b18b/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35"></a> &nbsp;
 <a href="https://www.instagram.com/sarnobatadi/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" width="35"></a> &nbsp;
 
 
