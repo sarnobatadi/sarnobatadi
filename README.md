@@ -8,10 +8,11 @@
 ### Skills:
 <ul>
   <li>C, C++</li>
-  <li>Java</li>  
+  <li>Python</li>  
   <li>HTML, CSS, JavaScript</li>  
-  <li>React.js, Node.js, Express.js</li>  
-  <li>SQL, MongoDB</li>
+  <li>React.js</li>
+  <li>Django<li/>
+  <li>MySQL, MongoDB</li>
 </ul>
 
     
