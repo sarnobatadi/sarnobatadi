@@ -11,7 +11,7 @@
   <li>Python</li>  
   <li>HTML, CSS, JavaScript</li>  
   <li>React.js</li>
-  <li>Django<li/>
+  <li>Django</li/>
   <li>MySQL, MongoDB</li>
 </ul>
 
