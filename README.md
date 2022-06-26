@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Aditya Sarnobat
 
 ### About Me:
-- I am a Third Year Computer Science & Engineering Student at Walchand College of Engineering, Sangli.<br>
+- I am Final Year Computer Science & Engineering Student at Walchand College of Engineering, Sangli.<br>
 - I am Computer Science Enthusiast.<br>
 
 ### Skills:
