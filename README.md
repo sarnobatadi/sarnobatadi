@@ -2,7 +2,7 @@
 
 ### About Me:
 - Computer Science & Engineering Graduate 2023 batch from Walchand College of Engineering, Sangli.<br>
-- I am Computer Science Enthusiast.<br>
+
 
 ### Skills:
 <ul>
